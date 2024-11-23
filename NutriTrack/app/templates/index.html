@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NutriTrack</title>
+    <link rel="stylesheet" href="/static/css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to NutriTrack</h1>
+      <form action="/dashboard" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required />
+
+        <label for="height">Height (cm):</label>
+        <input type="number" id="height" name="height" required />
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required />
+
+        <label for="activity_level">Activity Level:</label>
+        <input
+          type="number"
+          id="activity_level"
+          name="activity_level"
+          step="0.1"
+          required
+        />
+
+        <button type="submit">Get Started</button>
+      </form>
+    </div>
+  </body>
+</html>
