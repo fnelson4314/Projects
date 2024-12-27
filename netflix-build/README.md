@@ -1,6 +1,9 @@
-# Getting Started with Create React App and Redux
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+A responsive Netflix clone built with **React**, **Firebase**, and **Redux**, replicating key features like user authentication and dynamic movie browsing.
+
+![image](https://github.com/user-attachments/assets/d4896785-9452-4540-93a9-4c5bc5ca9b68)
+
 
 ## Available Scripts
 
