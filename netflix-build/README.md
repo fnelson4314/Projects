@@ -2,7 +2,8 @@
 
 A responsive Netflix clone built with **React**, **Firebase**, and **Redux**, replicating key features like user authentication and dynamic movie browsing.
 
-![image](https://github.com/user-attachments/assets/d4896785-9452-4540-93a9-4c5bc5ca9b68)
+![image](https://github.com/user-attachments/assets/900db253-4913-4d18-a4fa-a4ad9c001ea1)
+
 
 
 ## Available Scripts
