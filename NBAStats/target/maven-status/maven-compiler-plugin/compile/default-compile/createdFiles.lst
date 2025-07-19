@@ -1,0 +1,5 @@
+com\nba\NBAStats\player\PlayerRepository.class
+com\nba\NBAStats\player\PlayerController.class
+com\nba\NBAStats\player\PlayerService.class
+com\nba\NBAStats\NbaStatsApplication.class
+com\nba\NBAStats\player\Player.class
